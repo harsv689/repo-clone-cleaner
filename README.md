@@ -37,7 +37,7 @@ pip install subprocess
 
 3️⃣ **Run the script**  
 ```sh
-python clone_clean.py
+python3 clone.py
 ```
 
 4️⃣ **Enter the repository URL when prompted**  
